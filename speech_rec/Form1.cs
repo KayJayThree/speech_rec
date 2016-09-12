@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Speech;
 using System.Speech.Synthesis;
-using System.Speech.Synthesis.InstalledVoice;
+//using System.Speech.Synthesis.Ins4talledVoice;
 
 
 namespace speech_rec
